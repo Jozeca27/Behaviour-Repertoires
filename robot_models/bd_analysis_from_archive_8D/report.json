@@ -1,0 +1,27 @@
+{
+  "archive_coverage": 0.00028697035512879134,
+  "archive_uniformity": 0.43099703250279503,
+  "occupied_cells": 482,
+  "total_cells": 1679616,
+  "fitness_correlation": 0.11781342061333178,
+  "local_fitness_smoothness": 0.4164215560814157,
+  "trajectory_diversity": 0.9987769362187324,
+  "cluster_silhouette": 0.17845376976897387,
+  "pca_explained_variance": [
+    0.15063202702320017,
+    0.10123891037407337,
+    0.09033736432774649,
+    0.0835320951523061,
+    0.060518157037798316,
+    0.04842438072981558,
+    0.04159587544122283,
+    0.03556719306473543,
+    0.032341489827686046,
+    0.029931567157433354
+  ],
+  "pca_2d_total": 0.2518709373972735,
+  "archive_path": "/home/joze/Mestrado/Dissertacao/Pybullet/SaveResults/8Dwell_saved/map_elites_final.pkl",
+  "bd_mode": "transformer_8d",
+  "fitness_mode": "combined",
+  "archive_cells_replayed": 482
+}
