@@ -115,15 +115,8 @@ The exact genome size is computed automatically from the architecture via Hexapo
 ## Behavior Descriptors
 
 Current implementation uses:
-- **Final X position**: Where the robot ends up (forward/backward)
-- **Final Y position**: Lateral displacement
-
-Alternative descriptors you could implement:
-- Average velocity
-- Turning radius
-- Gait frequency
-- Duty cycle
-- Energy efficiency
+- **Final XY position**: Where the robot ends up
+- **Duty Factor**: How the legs behave during the run
 
 ## Fitness Function
 
